@@ -15,10 +15,6 @@
 |資料代|資料本<br>有料アプリ|test
 |通信費|資料本<br>有料アプリ|test2
 
-<<<<<<< HEAD
 ![スクリーンショット](img/s1.png)
 dsさん
 行追加
-=======
-![スクリーンショット](img/s1.png)
->>>>>>> parent of c3c813a... Update manual.md
